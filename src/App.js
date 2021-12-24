@@ -32,7 +32,7 @@ function App() {
     <div>
       <Header handleSearch={handleSearch}></Header>
 
-      {/* All Meals and meal name list container */}
+      {/* Meals and Meals list container */}
       <div className="row mt-4">
 
         {/* meals */}
